@@ -39,7 +39,7 @@ How to Learn JavaScript Properly
 http://javascriptissexy.com/how-to-learn-javascript-properly/
 
 
-3 ways to define a JavaScript class
+3 ways to define a JavaScript class [b]
 
 http://www.phpied.com/3-ways-to-define-a-javascript-class/
 
@@ -53,3 +53,66 @@ Apple.prototype.getInfo = function() {
     return this.color + ' ' + this.type + ' apple';
 };
 ```
+
+JavaScript undefined vs. null
+
+http://saladwithsteve.com/2008/02/javascript-undefined-vs-null.html
+
+ jQuery Transit Plugin
+
+http://ricostacruz.com/jquery.transit/
+
+
+Professional Javascript® For Web Developers
+
+http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691/ref=sr_1_1?ie=UTF8&qid=1363526656&sr=8-1&keywords=Professional+Javascript+For+Web+Developers
+
+```Javascript
+Correct include (XHTML):	
+<script src="http://www.somewhere.com/afile.js"></script>
+
+Deferred Scripts	
+<script src="http://www.somewhere.com/afile.js" defer="defer"></script>
+
+Correct XHTML inline JS	
+<script type="text/javascript">
+	//<![CDATA[
+	function doStuff() { }
+	//]]>
+</script>
+
+No JS available	
+<noscript></noscript>
+```
+
+Function Declarations vs. Function Expressions
+
+http://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/
+
+```Javascript
+//anonymous function expression
+var a = function() {
+    return 3;
+}
+ 
+//named function expression
+var a = function bar() {
+    return 3;
+}
+ 
+//self invoking function expression
+(function sayHello() {
+    alert("hello!");
+})();
+
+//Function Declaration
+function add(a,b) {return a + b};
+
+//Function Expression
+var add = function(a,b) {return a + b};
+```
+
+A Few New Things Coming To JavaScript
+
+http://addyosmani.com/blog/a-few-new-things-coming-to-javascript/
+
