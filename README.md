@@ -18,8 +18,8 @@ http://uxdesign.smashingmagazine.com/2012/09/27/fixing-broken-user-experience/
 
 
 Multi-Device Web Design: An Evolution
-http://www.lukew.com/ff/entry.asp?1436
+[http://www.lukew.com/ff/entry.asp?1436]
 
 
 Google I/O 2012 - High Performance HTML5
-http://www.youtube.com/watch?v=6EJ801el-I8
+[http://www.youtube.com/watch?v=6EJ801el-I8]
