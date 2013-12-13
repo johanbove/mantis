@@ -67,7 +67,7 @@ Professional Javascript® For Web Developers
 
 http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691/ref=sr_1_1?ie=UTF8&qid=1363526656&sr=8-1&keywords=Professional+Javascript+For+Web+Developers
 
-```Javascript
+```HTML
 Correct include (XHTML):	
 <script src="http://www.somewhere.com/afile.js"></script>
 
@@ -89,7 +89,7 @@ Function Declarations vs. Function Expressions
 
 http://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/
 
-```HTML
+```Javascript
 //anonymous function expression
 var a = function() {
     return 3;
@@ -169,3 +169,21 @@ CSS Holy GraiL
 http://alistapart.com/article/holygrail
 
 
+###Editors
+
+Javascript Integration in Sublime Text
+
+http://thechangelog.com/whoa-sublime-web-inspector//
+
+A Nice Sublime Text 2 Course
+
+http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/
+
+| Commands: | |
+| ------------- | -----:|
+| CMD + P | Search File |
+| CMD + I| Search Inline |
+| CMD + D| Select this element / Multicursor |
+| CMD + CTRL + G| Select all elements at once |
+| CMD + SHIFT + P| Command Line |
+| CMD + P + FILENAME + @ + METHOD OR CSS CLASS NAMER | Jump to method or class name in this file |
