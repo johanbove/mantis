@@ -180,7 +180,7 @@ A Nice Sublime Text 2 Course
 http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/
 
 | Commands: | |
-| ------------- | -----:|
+| -------------|-----|
 | CMD + P | Search File |
 | CMD + I| Search Inline |
 | CMD + D| Select this element / Multicursor |
