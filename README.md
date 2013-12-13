@@ -3,7 +3,7 @@
 The mantis project is a list of important reads, good bocks, great blog posts and comments about modern web development, web design and web technologies. Feel free to add important links as you like.
 
 
-## General
+### General
 
 Front-end performance for web designers and front-end developers
 
@@ -31,7 +31,7 @@ http://www.youtube.com/watch?v=6EJ801el-I8
 
 
 
-## Javascript
+### Javascript
 
 
 How to Learn JavaScript Properly
@@ -58,7 +58,7 @@ JavaScript undefined vs. null
 
 http://saladwithsteve.com/2008/02/javascript-undefined-vs-null.html
 
- jQuery Transit Plugin
+jQuery Transit Plugin
 
 http://ricostacruz.com/jquery.transit/
 
@@ -89,7 +89,7 @@ Function Declarations vs. Function Expressions
 
 http://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/
 
-```Javascript
+```HTML
 //anonymous function expression
 var a = function() {
     return 3;
@@ -115,4 +115,57 @@ var add = function(a,b) {return a + b};
 A Few New Things Coming To JavaScript
 
 http://addyosmani.com/blog/a-few-new-things-coming-to-javascript/
+
+
+### CSS
+
+Learning To Use The :before And :after Pseudo-Elements In CSS [b]
+
+http://coding.smashingmagazine.com/2011/07/13/learning-to-use-the-before-and-after-pseudo-elements-in-css/
+
+```CSS
+a:after {
+   content: attr(href);
+}
+```
+
+25 Incredibly Useful CSS Tricks You Should Know [b]
+
+http://webdeveloperplus.com/css/25-incredibly-useful-css-tricks-you-should-know/
+
+```CSS
+.elem{ 
+	text-indent:-9999px; 
+	background:url('someimage.jpg') no-repeat; 
+	height: 100px; /*dimensions equal to image size*/
+	width:500px;
+}
+a[href$='.doc'] { 
+	padding:0 20px 0 0; 
+}
+body{ 
+	font-size:62.5%;
+}
+```
+
+Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
+
+http://caniuse.com/
+
+Vertical Centering With CSS
+
+http://blog.themeforest.net/tutorials/vertical-centering-with-css/
+
+The Boring Bits Of CSS
+
+http://alistapart.com/article/love-the-boring-bits-of-css
+
+Learning CSS Layouts
+
+http://learnlayout.com/
+
+CSS Holy GraiL
+
+http://alistapart.com/article/holygrail
+
 
