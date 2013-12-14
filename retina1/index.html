@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+<script>
+$(function(){
+
+	console.log("go");
+
+	$(".exp").each(function(i, e){
+		var item = e;
+		$(e).on("mouseover", function(){
+			
+			var at = $(item).attr("src").replace(".jpg","");
+			$(item).attr("src", at+"s.jpg");
+
+		}).on("mouseout", function(){
+			
+			var at = $(item).attr("src").replace(".jpg","");
+			$(item).attr("src", at.replace('s','')+".jpg");
+
+		});
+	});
+
+});
+
+</script>
+
+<style>
+.exp {
+	width: 1000px;
+	height: auto;
+	display: block;
+	margin: 50px;	
+}
+
+.exp:hover {
+	margin: 49px;
+	border: 1px solid red;
+}
+
+</style>
+
+</head>
+<body>
+
+<h1>Retina Test</h1>
+
+<p>
+This page tests several images on a page.
+All images are placed as a 1000px image. Some are larger (2000px) to improve the "retina" look.
+The compreseion might differe but they are written below an image if so. All images/photos are under CC license by Ben Fredericson ben.fredericson@gmail.com
+</p>
+
+<p>2000px with 60% compression<p>
+<img src="exp2000.jpg" width="1000px">
+
+<p>2000px with 30% compression<p>
+<img src="exp2000.jpg" width="1000px">
+
+<p>1000px with 60% compression<p>
+<img src="exp2000.jpg" width="1000px">
+
+<p>500px with 60% compression<p>
+<img src="exp500.jpg" width="500px">
+
+<hr>
+
+<p>Mouseover to switch from 1000px to 2000px image comparrions.</p>
+
+<img class="exp" src="3.jpg" >
+<img class="exp" src="4.jpg" >
+
+<img class="exp" src="7.jpg" >
+	
+<img class="exp" src="17.jpg">
+<img class="exp" src="21.jpg">
+<img class="exp" src="22.jpg">
+<img class="exp" src="23.jpg">
+
+
+</body>
+</html>
