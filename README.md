@@ -187,3 +187,71 @@ http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-cour
 | CMD + CTRL + G| Select all elements at once |
 | CMD + SHIFT + P| Command Line |
 | CMD + P + FILENAME + @ + METHOD OR CSS CLASS NAMER | Jump to method or class name in this file |
+
+
+###SEO
+
+The Fundaments of SEO for Web Designer / Dev
+
+http://webdesign.tutsplus.com/sessions/seo-fundamentals-for-web-designers/
+
+
+###Development
+
+Single Page Website
+
+http://net.tutsplus.com/tutorials/javascript-ajax/important-considerations-when-building-single-page-web-apps/
+
+A parallax Example
+
+http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/jazz-up-a-static-webpage-with-subtle-parallax/
+
+CSS Attribute Selectors
+
+http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/quick-tip-make-the-most-of-css-attribute-selectors/
+
+ESI Language Specs
+
+http://www.w3.org/TR/esi-lang
+
+Explore and Master Chrome DevTools
+
+http://discover-devtools.codeschool.com/
+
+
+###General Webdesign
+
+Learn Webdesign / Design for the general backend-developer
+
+http://hackdesign.org/
+
+6 Ways To Improve Your Web Typography
+
+http://net.tutsplus.com/tutorials/html-css-techniques/six-ways-to-improve-your-web-typography/
+
+
+###Responsive Webdesign
+
+What is responsive webdesign and why do you need it? A list of pros and cons and how important is it for your business.
+
+http://www.zindico.com/design/what-responsive-web-design/
+
+Good inforgrafic but without sources
+
+http://www.dotcominfoway.com/blog/responsive-web-design-infographic
+
+A technical overview about resposive webdesign
+
+http://alistapart.com/article/responsive-web-design
+
+Complex Navigation Patterns for Responsive Design
+
+http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/
+
+Responsive Web Design: What It Is and How To Use It
+
+http://coding.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/
+
+Separate Mobile Website Vs. Responsive Website
+
+http://mobile.smashingmagazine.com/2012/08/22/separate-mobile-responsive-website-presidential-smackdown/
