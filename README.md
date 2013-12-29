@@ -2,6 +2,9 @@
 
 The mantis project is a list of important reads, good bocks, great blog posts and comments about modern web development, web design and web technologies. Feel free to add important links as you like.
 
+The Git Markdown Cheatsheet
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## 2013
 
