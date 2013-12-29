@@ -3,6 +3,182 @@
 The mantis project is a list of important reads, good bocks, great blog posts and comments about modern web development, web design and web technologies. Feel free to add important links as you like.
 
 
+## 2013
+
+
+
+### General
+
+Talks by Addy Osmani - A bunch of videos around web dev
+
+https://speakerdeck.com/addyosmani
+
+20 Fresh Tools for Developers and Designers
+
+http://codegeekz.com/20-fresh-tools-for-developers-and-designers/
+
+Personal quote: I liked jsbin.com more than jsfiddle.
+
+http://jsbin.com/
+
+My Entire Front End Development Processes From Start To Finish
+
+http://vincentp.me/blog/my-front-end-development-process-start-to-finish/
+
+5 ESSENTIAL CSS, JAVASCRIPT, AND HTML SNIPPETS FOR FRONT-END DEVELOPERS
+
+http://icscreative.com/essential-css-javascript-html-snippets-for-frontend-developers/
+
+20 Useful cheat sheets for web developers
+
+http://www.ma-no.org/en/content/index_20-useful-nbsp-cheat-sheets-for-web-developers_1760.php#.UdgUwo-7wrE.reddit
+
+
+
+### Javascript
+
+Fun with JavaScript Native Array Functions
+
+http://flippinawesome.org/2013/11/25/fun-with-javascript-native-array-functions/
+
+Writing Better jQuery Code
+
+http://flippinawesome.org/2013/11/25/writing-better-jquery-code/
+
+A purely client-side solution to conditional loading in #RWD
+
+http://responsivecomments.com/
+
+Intro to the React Framework
+
+http://dev.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660
+
+Cross-Origin Resource Sharing (CORS) is a W3C spec that allows cross-domain communication from the browser.
+
+http://www.html5rocks.com/en/tutorials/cors/
+
+Learning TypeScript
+
+http://www.typescriptlang.org/Tutorial/
+
+HTML5 Rocks Tutorials
+
+http://www.html5rocks.com/en/tutorials/?page=1
+
+An In-Depth Introduction To Ember.js
+
+http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/
+
+Perpetuating terrible Javascript practices (by Christian Heilmann)
+
+http://christianheilmann.com/2013/10/31/perpetuating-terrible-javascript-practices/
+
+A Deep Dive into Asynchronous Templating / Nunjucks.
+
+http://jlongster.com/A-Deep-Dive-into-Asynchronous-Templating
+
+GSAP: Professional-Grade HTML5 Animation
+
+http://www.greensock.com/gsap-js/
+
+
+### Node
+
+The Node Beginner Book - A Node.js tutorial by Manuel Kiessling
+
+http://www.nodebeginner.org/
+
+Node-Webkit Grunt Compiler - Includes Jade, Sass, jslint, uglify, and osx-notify
+
+https://github.com/wookiecooking/nwfaketop
+
+Node.js FUNdamentals: A Concise Overview of The Main Concepts
+
+http://webapplog.com/node-js-fundamentals-a-concise-overview-of-the-main-concepts/
+
+An Introduction to Node.js for Front-End Developers (Packaging and Project)
+
+http://speckyboy.com/2013/11/13/node-js-for-front-end-developers/
+
+
+### CSS
+
+A CSS animation stopwatch (nice layout, too)
+
+http://paullaros.github.io/stopwatch-in-css/
+
+A CSS animation example
+
+http://codepen.io/katydecorah/pen/uIEFy
+
+
+### Web
+
+WebKit Has Implemented srcset, And It’s A Good Thing
+
+http://mobile.smashingmagazine.com/2013/08/21/webkit-implements-srcset-and-why-its-a-good-thing/
+
+
+### Web Design
+
+A photoshop metro design interface
+
+http://www.gfxnerds.com/psd-files/psd-user-interface-kit-flat-psd
+
+Free UI Kits built on Bootstrap for any developer that wants to build a cool looking and functional website.
+
+https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits/?r=metro-vibes
+
+
+### HTML Mails
+
+PutsMail It's a mail test tool to test your HTML mails before sending them.
+
+http://www.gfxnerds.com/psd-files/psd-user-interface-kit-flat-psd
+
+
+### SVG
+
+SVG Icons for the win
+
+http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/
+
+SVG Icons
+
+http://iconmelon.com/
+
+Animated SVGs: Custom easing and timing
+
+http://oak.is/thinking/animated-svgs/
+
+
+Polygon feature design: SVG animations for fun and profit
+
+http://product.voxmedia.com/post/68085482982/polygon-feature-design-svg-animations-for-fun-and
+
+http://www.polygon.com/a/ps4-review
+
+
+### Dev Tools
+
+Chrome Dev Tools Keyboard Shortcuts
+
+https://developers.google.com/chrome-developer-tools/docs/shortcuts
+
+The Webkit Inspector
+
+http://jtaby.com/blog/2012/04/23/modern-web-development-part-1
+
+Chrome DevTools November Digest
+
+http://www.html5rocks.com/en/tutorials/developertools/novdigest/
+
+Chrome DevTools for Mobile: Screencast and Emulation
+
+http://www.html5rocks.com/en/tutorials/developertools/mobile/
+
+
+
 ## 2012
 
 ### General
