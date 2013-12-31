@@ -13,19 +13,15 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 ### General
 
 A list of Front-end Frameworks
-
 https://github.com/usablica/front-end-frameworks
 
 HOW TO KEEP UP TO DATE ON FRONT-END TECHNOLOGIES
-
 http://uptodate.frontendrescue.org
 
 Talks by Addy Osmani - A bunch of videos around web dev
-
 https://speakerdeck.com/addyosmani
 
 20 Fresh Tools for Developers and Designers
-
 http://codegeekz.com/20-fresh-tools-for-developers-and-designers/
 
 Personal quote: I liked jsbin.com more than jsfiddle.
