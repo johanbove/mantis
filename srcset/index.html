@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" >
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Testing srcset</title>
+
+  <link rel="stylesheet" href="../_shared/css/normalize.css">
+  <link rel="stylesheet" href="../_shared/css/foundation.css">
+
+
+  <style>
+  	.content {
+  		margin: auto;
+  		position: relative;
+  		width: 70%;
+  	}
+
+  	.labrat img {
+  		max-width: 100%;
+  	}
+
+  </style>
+
+</head>
+
+<body>
+
+	<div class="content">
+
+	<div class="row">
+		<div class="small-12">
+			<h3>Testing the srcset attribute for responsive and retina images</h3>
+			<p>It only works with the latest daily builds of webkit. The picture element does not support it at the moment.</p>
+		</div>
+		<div class="small-12 labrat">
+
+			<h5>The img element</h5>
+
+			<img src="http://placehold.it/666x333"
+				 srcset="http://placehold.it/320x210 640w 1x,
+						 http://placehold.it/640x420 640w 2x, 
+						 http://placehold.it/1000x400 1x,
+						 http://placehold.it/2000x800 2x"
+				 alt="A fancy image" />
+
+		</div>
+		<div class="small-12 labrat">
+
+			<h5>The picture element</h5>
+			<picture>
+			    <source srcset="http://placehold.it/1000x400 1x, http://placehold.it/2000x800 2x" media="(min-width: 40em)" /> 
+			    <source srcset="http://placehold.it/320x210 1x, http://placehold.it/640x420 2x" /> 
+			    <img src="http://placehold.it/666x333" alt="A fancy image" />
+			</picture>
+
+		</div>
+
+
+	</div>
+
+	</div>
+
+</body>
+</html>
