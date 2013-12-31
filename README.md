@@ -6,11 +6,19 @@ The Git Markdown Cheatsheet
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+
+
 ## 2013
 
-
-
 ### General
+
+A list of Front-end Frameworks
+
+https://github.com/usablica/front-end-frameworks
+
+HOW TO KEEP UP TO DATE ON FRONT-END TECHNOLOGIES
+
+http://uptodate.frontendrescue.org
 
 Talks by Addy Osmani - A bunch of videos around web dev
 
@@ -39,6 +47,14 @@ http://www.ma-no.org/en/content/index_20-useful-nbsp-cheat-sheets-for-web-develo
 
 
 ### Javascript
+
+An Introduction To Full-Stack JavaScript
+
+http://coding.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/
+
+Basic JavaScript for the impatient programmer
+
+http://www.2ality.com/2013/06/basic-javascript.html?ref=heydesigner&m=1
 
 Fun with JavaScript Native Array Functions
 
@@ -103,6 +119,9 @@ An Introduction to Node.js for Front-End Developers (Packaging and Project)
 
 http://speckyboy.com/2013/11/13/node-js-for-front-end-developers/
 
+Creating Desktop Applications With node-webkit
+
+http://strongloop.com/strongblog/creating-desktop-applications-with-node-webkit/
 
 ### CSS
 
@@ -114,12 +133,20 @@ A CSS animation example
 
 http://codepen.io/katydecorah/pen/uIEFy
 
+12 Awesome CSS3 Features That You Can Finally Start Using
+
+http://tutorialzine.com/2013/10/12-awesome-css3-features-you-can-finally-use/
 
 ### Web
 
 WebKit Has Implemented srcset, And It’s A Good Thing
 
 http://mobile.smashingmagazine.com/2013/08/21/webkit-implements-srcset-and-why-its-a-good-thing/
+
+
+Speed Up Page Loads Time Using Prefetch / Prerender
+
+http://www.onlywebpro.com/2013/11/22/speed-up-page-loads-time-using-prefetch-prerender/
 
 
 ### Web Design
@@ -138,6 +165,8 @@ https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits/?r=metro-vibes
 PutsMail It's a mail test tool to test your HTML mails before sending them.
 
 http://www.gfxnerds.com/psd-files/psd-user-interface-kit-flat-psd
+
+
 
 
 ### SVG
