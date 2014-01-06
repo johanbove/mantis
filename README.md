@@ -2,9 +2,13 @@
 
 The mantis project is a list of important reads, good bocks, great blog posts and comments about modern web development, web design and web technologies. Feel free to add important links as you like.
 
+# General
+
 The Git Markdown Cheatsheet for this list
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+A similar list to this but focused on technologies, tools and libs.
+https://github.com/dypsilon/frontend-dev-bookmarks
 
 ## 2013
 
@@ -75,6 +79,11 @@ http://jlongster.com/A-Deep-Dive-into-Asynchronous-Templating
 GSAP: Professional-Grade HTML5 Animation
 http://www.greensock.com/gsap-js/
 
+Writing Better jQuery Code
+http://flippinawesome.org/2013/11/25/writing-better-jquery-code/?utm_source=javascriptweekly&utm_medium=email
+
+Fun with JavaScript Native Array Functions
+http://flippinawesome.org/2013/11/25/fun-with-javascript-native-array-functions/?utm_source=javascriptweekly&utm_medium=email
 
 ### Node
 
