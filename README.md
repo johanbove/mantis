@@ -1,6 +1,6 @@
 # The Mantis Project
 
-The mantis project is a list of important reads, good bocks, great blog posts and comments about modern web development, web design and web technologies. Feel free to add important links as you like.
+The mantis project is a list of important reads, good books, great blog posts and comments about modern web development, web design and web technologies. Feel free to add important links as you like.
 
 # General
 
@@ -361,7 +361,7 @@ http://net.tutsplus.com/tutorials/html-css-techniques/six-ways-to-improve-your-w
 What is responsive webdesign and why do you need it? A list of pros and cons and how important is it for your business.
 http://www.zindico.com/design/what-responsive-web-design/
 
-Good inforgrafic but without sources
+Good infographic but without sources
 http://www.dotcominfoway.com/blog/responsive-web-design-infographic
 
 A technical overview about resposive webdesign
